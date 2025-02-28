@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DharmeshX
 - 👀 I’m interested in Developing Saas Web Apps and Mobile Apps using React Native
 - 🌱 I’m currently learning JavaScript, C and Python
-- 📫 How to reach me ... dharmeshshimpi7@gmail.com
+- 📫 How to reach me ... dharmeshshimpi6@gmail.com
 - 😄 Pronouns: ... He/Him
 
 <!---
